@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct Reflection_Saved___Reflection_RecapApp : App {
     var body: some Scene {
         WindowGroup {
             ContentView()
